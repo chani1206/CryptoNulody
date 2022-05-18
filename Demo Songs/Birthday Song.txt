@@ -1,39 +1,90 @@
-V2.1 C3.4 Q120 C60
+V2.1 F3.4 Q120 C48
 L"NA" M"M.J.Hill" S"Mona Lisa" N"Birthday Song"
 
-Ns1 S T8
+W"<intro>" L41535760 R60  T12
+R60 T4 Vr60
+L41535760 R72 T16
+R69 T16
+
+L41535760 R65 T16
+L34465053 R64 T16
+R62 T16
+
+L34465052 R70 T12
+R70 T4
+L36485255 R69 T16
+R65 T16
+
+L41535760 R67 T16
+R65 T32
+
+W"Hap-" L41535760 R60  T12
+W"py" R60 T4 Vr60
+W"birth-" R62 T16
+W"day" R60 T16
+
+W"to" L41535760 R65 T16
+W"you," L34465053 R64 T32
+
+W"Hap-" L41535760 R60  T12
+W"py" R60 T4 Vr60
+W"birth-" L34465053 R62 T16
+W"day" R60 T16
+
+W"to" L41535760 R67 T16
+W"you," R65 T32
+
+W"Hap-" L41535760 R60  T12
+W"py" R60 T4 Vr60
+W"birth-" R72 T16
+W"day" R69 T16
+
+W"dear" L41535760 R65 T16
+W"Nu-" L34465053 R64 T16
+W"Text" R62 T16
+
+W"Hap-" L34465052 R70 T12
+W"py" R70 T4
+W"birth-" L36485255 R69 T16
+W"day" R65 T16
+
+W"to" L41535760 R67 T16
+W"you." L41535760 R65 T32
+
+Ns1
+S T8
 S T8
 W"Hap-" R55 T8
-W"py " R55 T8
+W"py" R55 T8
 
 C W"birth-" R57 T16
-W"day " R55 T16
-W"to " R60 T16
+W"day" R55 T16
+W"to" R60 T16
 
-G7 W"you, " R59 T32
+G7 W"you," R59 T32
 W"Hap-" R55 T8
-W"py " R55 T8
+W"py" R55 T8
 
 W"birth-" R57 T16
-W"day " R55 T16
-W"to " R62 T16
+W"day" R55 T16
+W"to" R62 T16
 
-C W"you, " R60 T32
+C W"you," R60 T32
 W"Hap-" R55  T8
-W"py " R55 T8
+W"py" R55 T8
 
 W"birth-" R67 T16
-W"day " R64 T16
-W"dear " R60 T16
+W"day" R64 T16
+W"dear" R60 T16
 
 F W"Nu-" R59 T16
-W"Text " R57 T16
+W"Text" R57 T16
 W"Hap-" R65 T8
-W"py " R65 T8
+W"py" R65 T8
 
 C W"birth-" R64 T16
-W"day " R60 T16
-W"to " R62 T16
+W"day" R60 T16
+W"to" R62 T16
 
 C W"you." R60 T32
 S T8
