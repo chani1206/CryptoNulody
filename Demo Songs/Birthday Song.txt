@@ -4,41 +4,41 @@ L"NA" M"M.J.Hill" S"Mona Lisa" N"Birthday Song"
 Ns1 S T8
 S T8
 W"Hap-" R55 T8
-W"py" R55 T8
+W"py " R55 T8
 
 C W"birth-" R57 T16
-W"day" R55 T16
-W"to" R60 T16
+W"day " R55 T16
+W"to " R60 T16
 
-G7 W"you," R59 T32
+G7 W"you, " R59 T32
 W"Hap-" R55 T8
-W"py" R55 T8
+W"py " R55 T8
 
 W"birth-" R57 T16
-W"day" R55 T16
-W"to" R62 T16
+W"day " R55 T16
+W"to " R62 T16
 
-C W"you," R60 T32
+C W"you, " R60 T32
 W"Hap-" R55  T8
-W"py" R55 T8
+W"py " R55 T8
 
 W"birth-" R67 T16
-W"day" R64 T16
-W"dear" R60 T16
+W"day " R64 T16
+W"dear " R60 T16
 
 F W"Nu-" R59 T16
-W"Text" R57 T16
+W"Text " R57 T16
 W"Hap-" R65 T8
-W"py" R65 T8
+W"py " R65 T8
 
 C W"birth-" R64 T16
-W"day" R60 T16
-W"to" R62 T16
+W"day " R60 T16
+W"to " R62 T16
 
 C W"you." R60 T32
 S T8
 
 Ne1
-J1.2.1
+J1.1.1
 
 K
