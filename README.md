@@ -1,3 +1,4 @@
+CMJ#385 Supplementary Materials  
 # CryptoNulody  
 CryptoNulody published a human-readable encoding format for music information that can be used for NFT creation.  
 Demo App can play NuJpeg with encrypted music score.  
