@@ -1,7 +1,7 @@
-CMJ#385 Supplementary Materials  
+CMJ#405 Supplementary Materials  
 # CryptoNulody  
 CryptoNulody published a human-readable encoding format for music information that can be used for NFT creation.  
-Demo App can play NuJPEG with encrypted music score.  
+Demo App can play PIATO with encrypted music score.  
 The iOS version is coming soon.  
 Examples of NuJPEG can be obtained from the links https://www.akaswap.com/akaobj/8195; https://www.akaswap.com/akaobj/8219; https://www.akaswap.com/akaobj/9035  
 
